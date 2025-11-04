@@ -1,46 +1,31 @@
-# Bharath-Internship at DataX Labs
-Internship projects and tasks completed by Bharath during the Data Analyst Internship.
+# Bharath Internship at DataX Labs
 
-DataX Labs – Internship Task 1
+This repository contains my internship projects completed during the *Data Analyst Internship* at *DataX Labs*.  
+Each task focuses on practical data analytics skills — data cleaning, visualization, and reporting.
 
-Name: Kankanala Bharath Chary
+---
 
-This project is part of my Data Analyst Internship at DataX Labs.
-It includes data cleaning and a short summary report.
+## 📊 Task 1: Data Cleaning – Pizza Sales Data
+*Objective:* Clean raw pizza sales data and prepare it for analysis.  
+*Files:*
+- Pizza_Sales_Data.xlsx – Cleaned Excel dataset  
+- Pizza_Sales_Data_Cleaning_Summary.pdf – Summary report  
 
-Files:
-Pizza_Sales_Data.xlsx → Cleaned Excel data
+---
 
-Pizza_Sales_Data_Cleaning_Summary.pdf → 1-page summary report
+## 📈 Task 2: Visualization – Pizza Sales Dashboard
+*Objective:* Create a Power BI dashboard to visualize key sales insights.  
+*Files:*
+- Pizza_Sales_Report.pbix – Power BI dashboard  
+- Task2_Data_Visualization_Summary_Pizza.pdf – Visualization summary  
 
-Tool Used: Microsoft Excel
+---
 
+### 📂 Future Updates
+More tasks and reports will be added as I progress in my internship.
 
-DataX Labs – Internship Task 2
+---
 
-Pizza Sales Dashboard - 
-
-Tool Used: Power BI
-
-This project visualizes pizza sales data using Power BI.
-It includes insights on total sales, orders, quantity sold, average ratings, top-selling pizzas, and payment trends.
-The goal is to create a clear and interactive dashboard that helps understand business performance and customer preferences.
-
-Key Highlights:
-
-Total Sales: ₹712K
-
-Total Orders: 667
-
-Total Quantity Sold: 1984
-
-Average Rating: 2.99
-
-Best Performing Branch: Bangalore
-
-Most Preferred Payment Mode: UPI
-
-
-
-Created by: Kankanala Bharath Chary
-Organization: DataX Labs
+*Created by:* Kankanala Bharath Chary  
+*Internship Domain:* Data Analytics  
+*Organization:* DataX Labs
