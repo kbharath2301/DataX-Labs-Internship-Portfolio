@@ -40,7 +40,6 @@ Best Performing Branch: Bangalore
 
 Most Preferred Payment Mode: UPI
 
-Created by: Kankanala Bharath Chary
 
 
 Created by: Kankanala Bharath Chary
