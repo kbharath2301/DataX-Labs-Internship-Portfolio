@@ -72,6 +72,49 @@ The business maintains a ~30% profit margin.
 Consistent regional performance and balanced product distribution reflect steady growth.
 Focus can be placed on increasing sales during low-performing months.
 
+
+
+####Task 4: SQL for Data Analysis — E-Commerce Database
+
+objective:
+This task demonstrates fundamental SQL operations used for data analysis.
+It includes creating databases and tables, inserting and retrieving data, filtering, grouping, joining, and creating views for optimized query performance.
+
+📘 Topics Covered
+
+1. Creating a database and tables
+
+
+2. Inserting records
+
+
+3. Selecting and filtering data
+
+
+4. Grouping and sorting results
+
+
+5. Using joins (INNER, LEFT)
+
+
+6. Creating and viewing data through views
+
+
+7. Query optimization using indexes
+
+
+Task4_SQL_for_Data_Analysis.docx — Contains SQL commands 
+
+Task 4 – SQL Outputs.pdf — Detailed query outputs
+
+
+⚙ Tools Used
+
+SQL (MySQL)
+
+
+
+
 ### 📂 Future Updates
 More tasks and reports will be added as I progress in my internship.
 
