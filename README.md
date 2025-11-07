@@ -7,13 +7,13 @@ Each task focuses on practical data analytics skills — *data cleaning, visuali
 
 ## 📂 Project Overview
 
-| Task | Topic | Description | Repository Link |
-|------|--------|-------------|-----------------|
-| 🧹 Task 1 | Data Cleaning | Cleaned Pizza Sales dataset for analysis | [Task-1-DataCleaning](https://github.com/kbharath2301/Task-1-DataCleaning) |
-| 📊 Task 2 | Data Visualization | Power BI dashboard to visualize pizza sales | [Task-2-PowerBIReport](https://github.com/kbharath2301/Task-2-PowerBIReport) |
-| 💼 Task 3 | Business Sales & Profit Dashboard | Power BI report analyzing business trends | [Task-3-BusinessSalesPerformance](https://github.com/kbharath2301/Task-3-BusinessSalesPerformance) |
-| 🧠 Task 4 | SQL for Data Analysis | SQL queries for extracting and summarizing data | [Task-4-SQL](https://github.com/kbharath2301/Task-4-SQL) |
-| 🐍 Task 5 | Exploratory Data Analysis (EDA) | Python-based data exploration (coming soon) | (coming soon) |
+| Task | Topic | Description | 
+|------|--------|-------------|
+| 🧹 Task 1 | Data Cleaning | Cleaned Pizza Sales dataset for analysis | 
+| 📊 Task 2 | Data Visualization | Power BI dashboard to visualize pizza sales | 
+| 💼 Task 3 | Business Sales & Profit Dashboard | Power BI report analyzing business trends | 
+| 🧠 Task 4 | SQL for Data Analysis | SQL queries for extracting and summarizing data |
+| 🐍 Task 5 | Exploratory Data Analysis (EDA) | Python-based data exploration (coming soon) |
 
 ---
 
